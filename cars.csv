@@ -1,0 +1,14 @@
+﻿Unnamed:,0,cars_per_cap,country,drives_right
+0,US,809,United States,TRUE
+1,AUS,731,Australia,FALSE
+2,JPN,588,Japan,FALSE
+3,IN,18,India,FALSE
+4,RU,200,Russia,TRUE
+5,MOR,70,Morocco,TRUE
+6,EG,45,Egypt,TRUE
+7,NP,10,Nepal,TRUE
+8,PK,12,Pakistan,TRUE
+9,TH,100,Thailand,TRUE
+10,IND,95,Indonesia,TRUE
+11,CHN,400,China,FALSE
+12,BG,11,Bangladesh,TRUE
