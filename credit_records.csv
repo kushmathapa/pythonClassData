@@ -1,62 +1,62 @@
 Column1,suspect,location,date,item,price
-0,Kirstine Smith,Groceries R Us,6-Jan-18,broccoli, 1.25
-1,Gertrude Cox,Petroleum Plaza,7-Jan-18,fizzy drink, 1.9
-2,Fred Frequentist,Groceries R  Us,8-Jan-18,broccoli, 1.25
-3,Gertrude Cox,Groceries R Us,9-Jan-18,broccoli, 1.25
-4,Kirstine Smith,Clothing Club,10-Jan-18,shirt,14.25 
-5,Gertrude Cox,Burger Mart,11-Jan-18,burger,3.95 
-6,Fred Frequentist,Burger Mart,12-Jan-18,fries,1.95 
-7,Ronald Aylmer,Fisher Clothing Club,13-Jan-18,pants, 12.05
-8,Ronald Aylmer,Fisher Clothing Club,14-Jan-18,shirt, 14.25
-9,Kirstine Smith,Clothing Club,15-Jan-18,shirt,14.25 
-10,Kirstine Smith,Clothing Club,16-Jan-18,pants,12.05 
-11,Gertrude Cox,Petroleum Plaza,17-Jan-18,fizzy drink, 1.9
-12,Ronald Aylmer,Fisher Petroleum,18-Jan-18,carwash, 13.25
-13,Fred Frequentist,Burger Mart,19-Jan-18,cheeseburger,4.95 
-14,Gertrude Cox,Clothing Club,20-Jan-18,pants,12.05 
-15,Gertrude Cox,Burger Mart,21-Jan-18,cheeseburger,4.95 
-16,Gertrude Cox,Groceries R,22-Jan-18,broccoli, 1.25
-17,Kirstine Smith,Petroleum Plaza,23-Jan-18,carwash,13.25 
-18,Gertrude Cox,Petroleum Plaza,24-Jan-18,fizzy drink, 1.9
-19,Fred Frequentist,Clothing Club,25-Jan-18,shirt,14.25 
-20,Kirstine Smith,Petroleum Plaza,26-Jan-18,fizzy drink, 1.9
-21,Fred Frequentist,Petroleum Plaza,27-Jan-18,carwash,13.25 
+0,Kirstine Smith,Groceries R Us,6-Jan-18,broccoli,1.25
+1,Gertrude Cox,Petroleum Plaza,7-Jan-18,fizzy drink,1.9
+2,Fred Frequentist,Groceries R  Us,8-Jan-18,broccoli,1.25
+3,Gertrude Cox,Groceries R Us,9-Jan-18,broccoli,1.25
+4,Kirstine Smith,Clothing Club,10-Jan-18,shirt,14.25
+5,Gertrude Cox,Burger Mart,11-Jan-18,burger,3.95
+6,Fred Frequentist,Burger Mart,12-Jan-18,fries,1.95
+7,Ronald Aylmer,Fisher Clothing Club,13-Jan-18,pants,12.05
+8,Ronald Aylmer,Fisher Clothing Club,14-Jan-18,shirt,14.25
+9,Kirstine Smith,Clothing Club,15-Jan-18,shirt,14.25
+10,Kirstine Smith,Clothing Club,16-Jan-18,pants,12.05
+11,Gertrude Cox,Petroleum Plaza,17-Jan-18,fizzy drink,1.9
+12,Ronald Aylmer,Fisher Petroleum,18-Jan-18,carwash,13.25
+13,Fred Frequentist,Burger Mart,19-Jan-18,cheeseburger,4.95
+14,Gertrude Cox,Clothing Club,20-Jan-18,pants,12.05
+15,Gertrude Cox,Burger Mart,21-Jan-18,cheeseburger,4.95
+16,Gertrude Cox,Groceries R,22-Jan-18,broccoli,1.25
+17,Kirstine Smith,Petroleum Plaza,23-Jan-18,carwash,13.25
+18,Gertrude Cox,Petroleum Plaza,24-Jan-18,fizzy drink,1.9
+19,Fred Frequentist,Clothing Club,25-Jan-18,shirt,14.25
+20,Kirstine Smith,Petroleum Plaza,26-Jan-18,fizzy drink,1.9
+21,Fred Frequentist,Petroleum Plaza,27-Jan-18,carwash,13.25
 22,Ronald Aylmer,Fisher Groceries R,28-Jan-18,13,6.5
-23,Gertrude Cox,Burger Mart,29-Jan-18,burger,3.95 
-24,Gertrude Cox,Burger Mart,30-Jan-18,cheeseburger,4.95 
-25,Kirstine Smith,Groceries R,31-Jan-18,cheese, 5
-26,Ronald Aylmer,Fisher Burger,1-Feb-18,fries, 1.95
-27,Gertrude Cox,Groceries R,2-Feb-18,cheese, 5
-28,Fred Frequentist,Clothing Club,3-Feb-18,dress,20.15 
-29,Kirstine Smith,Clothing Club,4-Feb-18,dress,20.15 
-30,Fred Frequentist,Groceries R Us,5-Feb-18,cheese, 5
-31,Gertrude Cox,Groceries R Us,6-Feb-18,milk, 4.25
-32,Gertrude Cox,Clothing Club,7-Feb-18,dress,20.15 
-33,Fred Frequentist,Burger Mart,8-Feb-18,cheeseburger,4.95 
-34,Kirstine Smith,Clothing Club,9-Feb-18,shirt,14.25 
-35,Kirstine Smith,Clothing Club,10-Feb-18,pants,12.05 
-36,Ronald Aylmer,Fisher Clothing Club,11-Feb-18,pants, 12.05
-37,Gertrude Cox,Groceries R Us,12-Feb-18,broccoli, 1.25
-38,Ronald Aylmer,Fisher Clothing,13-Feb-18,shirt, 14.25
-39,Ronald Aylmer,Fisher Burger,14-Feb-18,fries, 1.95
-40,Gertrude Cox,Clothing Club,15-Feb-18,dress,20.15 
-41,Ronald Aylmer,Fisher Clothing,16-Feb-18,pants, 12.05
-42,Fred Frequentist,Groceries R Us,17-Feb-18,milk, 4.25
-43,Gertrude Cox,Petroleum Plaza,18-Feb-18,gas,24.95 
+23,Gertrude Cox,Burger Mart,29-Jan-18,burger,3.95
+24,Gertrude Cox,Burger Mart,30-Jan-18,cheeseburger,4.95
+25,Kirstine Smith,Groceries R,31-Jan-18,cheese,5
+26,Ronald Aylmer,Fisher Burger,1-Feb-18,fries,1.95
+27,Gertrude Cox,Groceries R,2-Feb-18,cheese,5
+28,Fred Frequentist,Clothing Club,3-Feb-18,dress,20.15
+29,Kirstine Smith,Clothing Club,4-Feb-18,dress,20.15
+30,Fred Frequentist,Groceries R Us,5-Feb-18,cheese,5
+31,Gertrude Cox,Groceries R Us,6-Feb-18,milk,4.25
+32,Gertrude Cox,Clothing Club,7-Feb-18,dress,20.15
+33,Fred Frequentist,Burger Mart,8-Feb-18,cheeseburger,4.95
+34,Kirstine Smith,Clothing Club,9-Feb-18,shirt,14.25
+35,Kirstine Smith,Clothing Club,10-Feb-18,pants,12.05
+36,Ronald Aylmer,Fisher Clothing Club,11-Feb-18,pants,12.05
+37,Gertrude Cox,Groceries R Us,12-Feb-18,broccoli,1.25
+38,Ronald Aylmer,Fisher Clothing,13-Feb-18,shirt,14.25
+39,Ronald Aylmer,Fisher Burger,14-Feb-18,fries,1.95
+40,Gertrude Cox,Clothing Club,15-Feb-18,dress,20.15
+41,Ronald Aylmer,Fisher Clothing,16-Feb-18,pants,12.05
+42,Fred Frequentist,Groceries R Us,17-Feb-18,milk,4.25
+43,Gertrude Cox,Petroleum Plaza,18-Feb-18,gas,24.95
 44,Ronald Aylmer,Fisher Burger,19-Feb-18,fried,fries 1.95
-45,Gertrude Cox,Petroleum Plaza,20-Feb-18,gas,24.95 
-46,Fred Frequentist,Burger Mart,21-Feb-18,fries,1.95 
-47,Gertrude Cox,Burger Mart,22-Feb-18,burger,3.95 
-48,Fred Frequentist,Clothing Club,23-Feb-18,pants,12.05 
+45,Gertrude Cox,Petroleum Plaza,20-Feb-18,gas,24.95
+46,Fred Frequentist,Burger Mart,21-Feb-18,fries,1.95
+47,Gertrude Cox,Burger Mart,22-Feb-18,burger,3.95
+48,Fred Frequentist,Clothing Club,23-Feb-18,pants,12.05
 49,Ronald Aylmer,Fisher Groceries R,24-Feb-18,milk,4.25
 50,Ronald Aylmer,Fisher Petroleum Plaza,25-Feb-18,fizzy drink,1.9
-51,Kirstine Smith,Burger Mart,26-Feb-18,cheeseburger,4.95 
+51,Kirstine Smith,Burger Mart,26-Feb-18,cheeseburger,4.95
 52,Gertrude Cox,Groceries R Us,27-Feb-18,cucumbers,2.05
-53,Gertrude Cox,Petroleum Plaza,28-Feb-18,fizzy drink, 1.9
+53,Gertrude Cox,Petroleum Plaza,28-Feb-18,fizzy drink,1.9
 54,Ronald Aylmer,Fisher Clothing Club,1-Mar-18,pants,pants 12.05
-55,Gertrude Cox,Clothing Club,2-Mar-18,shirt,14.25 
-56,Fred Frequentist,Clothing Club,3-Mar-18,pants,12.05 
-57,Gertrude Cox,Clothing Club,4-Mar-18,dress,20.15 
-58,Kirstine Smith,Burger Mart,5-Mar-18,burger,3.95 
+55,Gertrude Cox,Clothing Club,2-Mar-18,shirt,14.25
+56,Fred Frequentist,Clothing Club,3-Mar-18,pants,12.05
+57,Gertrude Cox,Clothing Club,4-Mar-18,dress,20.15
+58,Kirstine Smith,Burger Mart,5-Mar-18,burger,3.95
 59,Ronald Aylmer,Fisher Groceries R,6-Mar-18,cucumbers,2.05
 ,,,,, 
